@@ -64,7 +64,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/healthcare.git
+git clone Repository 
 cd healthcare
 Installation
 
